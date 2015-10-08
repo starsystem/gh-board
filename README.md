@@ -3,7 +3,7 @@
 
 [![screenshot](https://cloud.githubusercontent.com/assets/253202/9979081/7ba38762-5f24-11e5-898f-c8436dd0d018.png)](http://philschatz.com/gh-board/)
 
-# Examples
+# Examples cmon
 
 Just specify a GitHub repository in the URL and off you go!
 
